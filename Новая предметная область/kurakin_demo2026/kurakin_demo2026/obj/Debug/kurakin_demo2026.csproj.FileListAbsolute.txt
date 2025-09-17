@@ -1,0 +1,8 @@
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\kurakin_demo2026.csproj.AssemblyReference.cache
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\AddUserWindow.g.cs
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\AdminWindow.g.cs
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\ChangePassword.g.cs
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\MainWindow.g.cs
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\App.g.cs
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\kurakin_demo2026_MarkupCompile.cache
+C:\Users\Kurakin.F.A\source\repos\kurakin_demo2026\kurakin_demo2026\obj\Debug\kurakin_demo2026_MarkupCompile.lref
