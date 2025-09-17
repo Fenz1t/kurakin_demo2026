@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:kurakin_demo"
         mc:Ignorable="d"
-        Title="Добавление нового пользователя" Height="450" Width="800" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" ResizeMode="CanResize">
+        Title="Добавление нового пользователя" Height="470" Width="800" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" ResizeMode="CanResize">
     <Window.Background>
         <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
             <GradientStop Color="DarkBlue" Offset="0.0"></GradientStop>
