@@ -1,32 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\",
+  "WorkspaceRootPath": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|kurakin_demo2026||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\adduserwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\changepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\desktop\\kurakin_demo2026\\\u043D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|solutionrelative:kurakin_demo2026\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F3249F-D192-4230-9509-413A9E2A69B1}|kurakin_demo2026\\kurakin_demo2026.csproj|c:\\users\\kurakin.f.a\\desktop\\kurakin_demo2026\\\u043D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,15 +40,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\App.xaml",
+              "RelativeDocumentMoniker": "kurakin_demo2026\\App.xaml",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\App.xaml",
+              "RelativeToolTip": "kurakin_demo2026\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-17T11:44:07.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "kurakin_demo2026",
-              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\kurakin_demo2026.csproj",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\kurakin_demo2026.csproj",
               "RelativeDocumentMoniker": "kurakin_demo2026\\kurakin_demo2026.csproj",
-              "ToolTip": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\kurakin_demo2026.csproj",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\kurakin_demo2026.csproj",
               "RelativeToolTip": "kurakin_demo2026\\kurakin_demo2026.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-17T09:35:10.613Z",
@@ -52,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AddUserWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\AddUserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\AddUserWindow.xaml",
               "RelativeDocumentMoniker": "kurakin_demo2026\\AddUserWindow.xaml",
-              "ToolTip": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\AddUserWindow.xaml",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\AddUserWindow.xaml",
               "RelativeToolTip": "kurakin_demo2026\\AddUserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-17T08:23:45.498Z",
@@ -64,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ChangePassword.xaml",
-              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\ChangePassword.xaml",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\ChangePassword.xaml",
               "RelativeDocumentMoniker": "kurakin_demo2026\\ChangePassword.xaml",
-              "ToolTip": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\ChangePassword.xaml",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\ChangePassword.xaml",
               "RelativeToolTip": "kurakin_demo2026\\ChangePassword.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-17T08:22:06.891Z",
@@ -76,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AdminWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "kurakin_demo2026\\AdminWindow.xaml",
-              "ToolTip": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\AdminWindow.xaml",
               "RelativeToolTip": "kurakin_demo2026\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-17T08:21:12.846Z",
@@ -90,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml",
               "RelativeDocumentMoniker": "kurakin_demo2026\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml",
               "RelativeToolTip": "kurakin_demo2026\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-17T08:18:19.056Z",
@@ -102,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "kurakin_demo2026\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Kurakin.F.A\\source\\repos\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kurakin.F.A\\Desktop\\kurakin_demo2026\\\u041D\u043E\u0432\u0430\u044F \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u043D\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C\\kurakin_demo2026\\kurakin_demo2026\\MainWindow.xaml.cs",
               "RelativeToolTip": "kurakin_demo2026\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -23,7 +23,7 @@
             <TextBox x:Name="Login" Height="20" Margin="0,5,0,10"></TextBox>
             <TextBlock Text="Пароль" Foreground="AliceBlue" FontSize="14" FontWeight="Bold" HorizontalAlignment="Left"></TextBlock>
             <PasswordBox x:Name="Password" Height="20" Margin="0,5,0,10"></PasswordBox>
-            <Button Content="Войти" Height="27" Width="120" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,0,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand" Click="Button_Click"></Button>
+            <Button Content="Войти" Height="27" Width="120" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,0,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand"></Button>
         </StackPanel>
     </Grid>
 </Window>

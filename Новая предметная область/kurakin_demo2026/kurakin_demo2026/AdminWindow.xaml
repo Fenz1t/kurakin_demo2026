@@ -27,9 +27,9 @@
             </DataGrid.Columns>
         </DataGrid>
         <StackPanel Background="Transparent" Margin="0,0,0,0" Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button Content="Добавить пользователя" Height="27" Width="160" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand" Click="AddUser_Click"></Button>
-            <Button Content="Разблокировать" Height="27" Width="160" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand" Click="Unblock_Click"></Button>
-            <Button Content="Сохранить изменения"  FontWeight="Bold" Height="27" Width="160" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand" Click="Save_Click"></Button>
+            <Button Content="Добавить пользователя" Height="27" Width="160" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand"></Button>
+            <Button Content="Разблокировать" Height="27" Width="160" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand"></Button>
+            <Button Content="Сохранить изменения"  FontWeight="Bold" Height="27" Width="160" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand"></Button>
         </StackPanel>
     </Grid>
 </Window>

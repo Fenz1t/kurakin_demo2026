@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:kurakin_demo2026"
         mc:Ignorable="d"
-        Title="Добавление нового пользователя" Height="450" Width="800" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" ResizeMode="CanResize">
+        Title="Добавление нового пользователя"  MinHeight="450" MinWidth="800" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
     <Window.Background>
         <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
             <GradientStop Color="DarkBlue" Offset="0.0"></GradientStop>
@@ -23,7 +23,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="100"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
@@ -34,12 +34,14 @@
         <Label Content="Имя пользователя:" Foreground="White" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,10,10"/>
         <TextBox Grid.Row="2" Grid.Column="1" x:Name="UsernameTextBox" Margin="0,0,0,10" HorizontalAlignment="Stretch"/>
         <Label Content="Роль:" Foreground="White" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,10,10"/>
-        <ComboBox Grid.Row="3" Margin="124,0,0,10" x:Name="RoleComboBox" Grid.ColumnSpan="2">
+        <ComboBox Grid.Row="3" Margin="0,0,0,10" x:Name="RoleComboBox" Grid.Column="1">
             <ComboBoxItem Content="Admin"></ComboBoxItem>
             <ComboBoxItem Content="User"></ComboBoxItem>
         </ComboBox>
         <Label Content="Пароль:" Foreground="White" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,10,10"/>
         <PasswordBox Grid.Row="4" Grid.Column="1" x:Name="PasswordBox" Margin="0,0,0,10" HorizontalAlignment="Stretch"/>
-        <Button Content="Добавить пользователя" Grid.Column="2" Grid.Row="7" Height="27" Width="160" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Cursor="Hand" Click="AddButton_Click"></Button>
+        <Border CornerRadius="12" Grid.Column="2" Grid.Row="7" Height="40" Width="160" BorderBrush="White" BorderThickness="2" Margin="0,12,20,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" >
+            <Button Content="Добавить пользователя" Grid.Column="2" Grid.Row="7" Height="33" Width="150" FontWeight="Bold" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="0" Margin="0,0,0,0" Padding="0,0,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Cursor="Hand"></Button>
+        </Border>
     </Grid>
 </Window>
