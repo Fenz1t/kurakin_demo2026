@@ -42,8 +42,6 @@ namespace kurakin_demo2026
                 foreach (Border cell in PuzzleGrid.Children)
                 {
                     cell.AllowDrop = true;
-                    cell.DragEnter += Cell_DragEnter;
-                    cell.DragLeave += Cell_DragLeave;
                     cell.Drop += Cell_Drop;
                 }
             }
@@ -70,7 +68,6 @@ namespace kurakin_demo2026
                     Tag = shuffledPositions[i]
                 };
                 image.MouseDown += PuzzlePiece_MouseDown;
-
                 borders[i].Child = image;
 
                 _pieces.Add(new PuzzlePieceInfo
@@ -87,66 +84,37 @@ namespace kurakin_demo2026
                 var image = (Image)sender;
                 DragDrop.DoDragDrop(image, image, DragDropEffects.Move);
             }
+        private void Cell_Drop(object sender, DragEventArgs e)
+        {
+            var draggedImage = e.Data.GetData(typeof(Image)) as Image;
+            if (draggedImage == null) return;
 
-            private void Cell_DragEnter(object sender, DragEventArgs e)
+            var cell = (Border)sender;
+            cell.Child = new Image
             {
-                var cell = (Border)sender;
-                cell.Background = System.Windows.Media.Brushes.LightYellow;
+                Source = draggedImage.Source,
+                Width = 80,
+                Height = 80,
+                Tag = draggedImage.Tag
+            };
+
+            int correctPosition = (int)draggedImage.Tag;
+            int cellPosition = int.Parse(cell.Tag.ToString());
+
+            var piece = _pieces.FirstOrDefault(p => p.CorrectPosition == correctPosition);
+            if (piece != null)
+            {
+                piece.CurrentPosition = cellPosition;
             }
 
-            private void Cell_DragLeave(object sender, DragEventArgs e)
-            {
-                var cell = (Border)sender;
-                cell.Background = System.Windows.Media.Brushes.WhiteSmoke;
-            }
+            draggedImage.Visibility = Visibility.Hidden;
 
-            private void Cell_Drop(object sender, DragEventArgs e)
-            {
-                var cell = (Border)sender;
-                cell.Background = System.Windows.Media.Brushes.WhiteSmoke;
-
-                if (e.Data.GetData(typeof(Image)) is Image draggedImage)
-                {
-                    if (cell.Child != null)
-                    {
-                        cell.Child = null;
-                    }
-
-                    var newImage = new Image
-                    {
-                        Source = draggedImage.Source,
-                        Width = 80,
-                        Height = 80,
-                        Tag = draggedImage.Tag
-                    };
-
-                    cell.Child = newImage;
-
-                    // Обновляем текущую позицию кусочка
-                    int correctPosition = (int)draggedImage.Tag;
-                    int cellPosition = int.Parse(cell.Tag.ToString());
-
-                    var piece = _pieces.FirstOrDefault(p => p.CorrectPosition == correctPosition);
-                    if (piece != null)
-                    {
-                        piece.CurrentPosition = cellPosition;
-                    }
-
-                    draggedImage.Visibility = Visibility.Hidden;
-
-                    if (_pieces.All(p => p.CurrentPosition > 0))
-                    {
-                        CheckPuzzle();
-                    }
-                }
-            }
-
-            private void CheckButton_Click(object sender, RoutedEventArgs e)
+            if (_pieces.All(p => p.CurrentPosition > 0))
             {
                 CheckPuzzle();
             }
-
-            private void CheckPuzzle()
+        }
+        private void CheckPuzzle()
             {
                 bool isCorrect = true;
 

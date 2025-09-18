@@ -51,3 +51,5 @@ D:\Demoexamen2026\kurakin_demo2026\Новая предметная област�
 D:\Demoexamen2026\kurakin_demo2026\Новая предметная область\kurakin_demo2026\kurakin_demo2026\obj\Debug\kurakin_demo2026.pdb
 D:\Demoexamen2026\kurakin_demo2026\Новая предметная область\kurakin_demo2026\kurakin_demo2026\obj\Debug\CaptchaWindow.g.cs
 D:\Demoexamen2026\kurakin_demo2026\Новая предметная область\kurakin_demo2026\kurakin_demo2026\obj\Debug\CaptchaWindow.baml
+C:\Users\Kurakin.F.A\Desktop\kurakin_demo2026\Новая предметная область\kurakin_demo2026\kurakin_demo2026\obj\Debug\CaptchaWindow.g.cs
+C:\Users\Kurakin.F.A\Desktop\kurakin_demo2026\Новая предметная область\kurakin_demo2026\kurakin_demo2026\obj\Debug\CaptchaWindow.baml
