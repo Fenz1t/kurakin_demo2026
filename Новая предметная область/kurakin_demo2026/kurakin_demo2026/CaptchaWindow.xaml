@@ -40,8 +40,5 @@
             <Border BorderBrush="LightGray" BorderThickness="2" Width="80" Height="80" Tag="3"/>
             <Border BorderBrush="LightGray" BorderThickness="2" Width="80" Height="80" Tag="4"/>
         </UniformGrid>
-
-        <Button Grid.Row="2" Content="Проверить" FontWeight="Bold" Height="27" Width="160" Background="Transparent" Foreground="White" BorderBrush="White" BorderThickness="2" Click="CheckButton_Click" 
-           Margin="10"  HorizontalAlignment="Center"/>
     </Grid>
 </Window>
